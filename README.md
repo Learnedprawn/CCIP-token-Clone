@@ -1,6 +1,6 @@
 # Foundry Cross Chain Rebase Token
 
-This is a section of the Cyfrin Foundry Solidity course.
+
 
 # About
 
