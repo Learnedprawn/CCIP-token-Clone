@@ -166,5 +166,4 @@ This project is a cross-chain rebase token that integrates Chainlink CCIP to ena
 - You cannot earn interest in the time while bridging.
 
 Don't forget to bridge back the amount of interest they accrued on the destination chain in that time
-# CCIP-token-Clone
-# CCIP-token-Clone
+
